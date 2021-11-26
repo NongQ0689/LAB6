@@ -18,7 +18,7 @@ int main()
         }
     }
     
-    cout << "#Even numbers = "<<E;
+    cout << "#Even numbers = "<<E-1;
     cout << "\n#Odd numbers = "<<O;
     return 0;
 }
